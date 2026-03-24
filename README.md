@@ -17,7 +17,7 @@ bash
 python concat_potcar.py POTCAR_P POTCAR_Mn POTCAR_O > POTCAR_PMnO
 
 Output:
-✅ Success: Concatenated 4 POTCARs (order: O → P → Mo → Co) → stdout
+✅ Success: Concatenated 4 POTCARs (order: P → Mn → O) → stdout
 
 ## Why use it?
 
